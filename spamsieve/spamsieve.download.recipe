@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Download recipe for SpamSieve from C-Command.com</string>
     <key>Identifier</key>
-    <string>com.github.favog.autopkg.download.spamsieve</string>
+    <string>com.github.favog.favog-autopkg.download.spamsieve</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
